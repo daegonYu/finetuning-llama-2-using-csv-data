@@ -16,5 +16,4 @@ scipy
 torch
 fairscale
 fire
-sentencepiece
 trl
